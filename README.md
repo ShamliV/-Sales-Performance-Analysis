@@ -1,4 +1,4 @@
-Sales Performance Analysis (Excel Dashboard)
+**Sales Performance Analysis (Excel Dashboard)**
 <img width="554" height="344" alt="Sales Analysis Dashboard_" src="https://github.com/user-attachments/assets/67c70ed6-0f9c-480a-bc82-47c401fcde21" />
 
 **Project Overview**
