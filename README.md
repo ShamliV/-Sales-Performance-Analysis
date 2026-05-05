@@ -15,6 +15,8 @@ Understand customer behavior across regions
 Evaluate delivery performance and its impact on customer satisfaction
 Improve operational efficiency and sales growth
 
+**Data Source**: Kaggle Dataset.
+
 
 **Tools Used**
 
