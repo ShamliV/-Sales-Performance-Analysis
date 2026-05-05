@@ -42,8 +42,8 @@ Target high‑order cities with region‑specific promotions while expanding rea
 
 
 **Dashboard Outcome**
-The dashboard enables business stakeholders to:
 
+The dashboard enables business stakeholders to:
 Track overall sales performance
 Identify peak occasions and products
 Understand customer behavior and delivery expectations
