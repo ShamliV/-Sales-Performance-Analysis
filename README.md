@@ -18,11 +18,11 @@ Improve operational efficiency and sales growth
 
 **Tools Used**
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers & Filters
-DAX 
+Microsoft Excel,
+Pivot Tables,
+Pivot Charts,
+Slicers & Filters,
+DAX,
 Dashboard Design Techniques
 
 
